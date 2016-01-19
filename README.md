@@ -1,3 +1,3 @@
 # hello-world
-Personal repository with stuff & stuff.
+Personal repository with stuff & stuffy things.
 Stop reading this.
