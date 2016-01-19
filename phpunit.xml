@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phpunit colors="true" bootstrap="bootstrap.php">
+<testsuite name='Underscore test suite'>
+	<directory suffix='.php'>app/</directory>
+</testsuite>
+</phpunit>
