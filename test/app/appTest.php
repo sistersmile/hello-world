@@ -1,8 +1,8 @@
 <?php
+require_once 'app/app.php';
 class appTest extends \PHPUnit_Framework_TestCase{
-  public function appTest(){    
+  public function testBasics(){
     $app = new app();
-    $app->getPropertyOrSomething();
     $this->assertEquals($app->getPropertyOrSomething(), 'Watchalookingfor?');
   }
 }
